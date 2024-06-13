@@ -1,6 +1,7 @@
 ## 🔥 **[Widget 2.0](https://github.com/JiteshGaikwad/Chatbot-Widget/tree/Widget2.0) released, built using React JS & Tailwind CSS**
 
-https://www.canva.com/p/templates/EAFYyYrO81U-modern-neon-ai-facebook-post/
+![ScreenShot](static/img/banner.png)
+
 
 
   ***An Open Source ChatBot widget easy to connect to RASA bot through [Rest](https://rasa.com/docs/rasa/user-guide/connectors/your-own-website/#rest-channels) Channel.***
